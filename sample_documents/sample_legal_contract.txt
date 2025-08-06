@@ -1,0 +1,35 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on January 15, 2024, between TechCorp Solutions Inc. ("Company") and John Smith ("Employee").
+
+1. POSITION AND DUTIES
+Employee shall serve as Senior Software Engineer reporting to the CTO. Primary responsibilities include:
+- Designing and developing software applications
+- Leading technical architecture decisions
+- Mentoring junior developers
+- Participating in code reviews
+
+2. COMPENSATION
+- Base Salary: $120,000 annually, paid bi-weekly
+- Performance Bonus: Up to 15% of base salary based on annual review
+- Stock Options: 1,000 shares vesting over 4 years (25% per year)
+
+3. BENEFITS
+- Health insurance (medical, dental, vision)
+- 401(k) with 4% company match
+- 20 days PTO annually
+- 10 paid holidays
+- Professional development budget: $2,000/year
+
+4. CONFIDENTIALITY
+Employee agrees to maintain confidentiality of all proprietary information during and after employment.
+
+5. TERMINATION
+Either party may terminate employment with 30 days written notice. Company may terminate immediately for cause.
+
+6. INTELLECTUAL PROPERTY
+All work created during employment belongs to the Company.
+
+This agreement is governed by the laws of California.
+
+Signed: _________________ Date: _________________
